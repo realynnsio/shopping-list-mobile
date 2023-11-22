@@ -1,6 +1,10 @@
 # shopping_list
 
-A new Flutter project.
+<br>
+
+[![Build status](https://build.appcenter.ms/v0.1/apps/244de880-9030-49f2-b16e-a1bed9229eb2/branches/main/badge)](https://appcenter.ms)
+
+A new Flutter project. Tautan publikasi aplikasi dapat diakses melalui link [berikut.](https://install.appcenter.ms/orgs/falling-kermit/apps/shopping-list/distribution_groups/public)
 
 ## Getting Started
 
